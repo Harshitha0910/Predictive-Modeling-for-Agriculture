@@ -16,6 +16,7 @@ Each row in the dataset represents soil measurements in a particular field, with
 
 This repository contains a Python script that trains a logistic regression model to predict crop types based on soil measures (N, P, K, and pH levels). The script evaluates each feature's predictive performance and uses the best-performing feature for predictions.
 
+![farmer_in_a_field](https://github.com/Harshitha0910/Predictive-Modeling-for-Agriculture/assets/171827286/37454953-8b20-47ee-bd8f-ea34c31e72ab)
 
 ## Description
 
